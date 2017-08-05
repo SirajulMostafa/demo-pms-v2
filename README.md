@@ -1,5 +1,11 @@
 # demo-pms-v2
 ##Pharmacy Management System
+# Project tools
+### Raw php
+### mysql
+### Ajax
+### javaScript
+### Bootstrap-3
 
 #Pharmacy Management System Demo Pictures
 ![2017-08-05 2](https://user-images.githubusercontent.com/14887259/28997334-fb6711f4-7a33-11e7-97ed-9b26f56c8835.png)
